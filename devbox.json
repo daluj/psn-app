@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "flutter",
+    "dart"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to your Flutter Devbox!'",
+      "flutter doctor"
+    ]
+  }
+}
